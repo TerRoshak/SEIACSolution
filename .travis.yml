@@ -1,4 +1,2 @@
 ﻿language: csharp
 solution: Labyrinth.sln
-mono:
-  - latest
